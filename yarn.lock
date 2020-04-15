@@ -226,10 +226,10 @@ proxy-from-env@^1.0.0:
   resolved "https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.0.0.tgz#33c50398f70ea7eb96d21f7b817630a55791c7ee"
   integrity sha1-M8UDmPcOp+uW0h97gXYwpVeRx+4=
 
-puppeteer-autoscroll-down@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/puppeteer-autoscroll-down/-/puppeteer-autoscroll-down-0.1.2.tgz#bc4447b521ab03861315cd32bb5aaec9c47dac0e"
-  integrity sha512-LuAgXHrkMDyJuZC+vsE3Pbtr66BUaRZdS9HbYL/RL+HDFk78sMp03ar3irmCWhpgNhqRI5CogJPv3STAl3Y8gg==
+puppeteer-autoscroll-down@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/puppeteer-autoscroll-down/-/puppeteer-autoscroll-down-0.1.4.tgz#1d1e8b849c136461f265de6b396202973bd9729f"
+  integrity sha512-oUQ3Zooz+bn9bMfrbTalkb/w/I05wctr5SYt7FxmGH/fJvUBinlr9V/GC6Mx6dh72Y+IaXjTjrUbJL1pErRixg==
 
 puppeteer@^1.20.0:
   version "1.20.0"
